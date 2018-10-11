@@ -1,0 +1,10 @@
+username : esparkso
+
+Domain: http://esparksolutions.net/cpanel
+
+cPanel Old password: (&*-~a8/3Y-S.812I // (&*-~a8/3Y-S.801I
+cPanel New Password: ()*#&8elec*ron9*5
+
+eSpark Website
+username : admin
+password : click12345
